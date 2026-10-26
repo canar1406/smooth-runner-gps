@@ -1,0 +1,13 @@
+# Android SDK binaries & build outputs
+platform-tools/
+SmoothRunnerAndroid/.gradle/
+SmoothRunnerAndroid/build/
+SmoothRunnerAndroid/app/build/
+*.idsig
+*.keystore
+*.jks
+
+# Personal exported run logs & temporary files
+vrace_*_export.json
+live_spoof_position.gpx
+.DS_Store
