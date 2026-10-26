@@ -114,3 +114,10 @@ adb install -r SmoothRunner-GPS.apk
             ├── SpeedTier.java            # Định nghĩa các bậc vận tốc an toàn (3.8 - 13.6 km/h)
             └── XposedHook.java           # Hook LSPosed ẩn Mock GPS, giả lập IMU & chuẩn hoá dữ liệu
 ```
+
+---
+
+## 📄 Bản quyền (Copyright)
+
+**© 2026 Heavietnam. All rights reserved.**
+Phát triển & tối ưu bởi **Heavietnam**.

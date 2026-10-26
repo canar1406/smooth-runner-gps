@@ -10,3 +10,7 @@ Xem đầy đủ tài liệu chi tiết tại **[`README.md`](./README.md)**.
    * Bấm **`⏸ pause`** trên SmoothRunner trước để giữ nguyên vị trí vỉa hè + nhích chân tự nhiên tại chỗ.
    * Sang **vRace Connect** bấm **Tạm dừng $\rightarrow$ Lưu bài chạy**.
    * Sau khi lưu xong, bấm **`▶ start`** để chạy phiên mới ngay từ vị trí đang đứng (hoặc bấm **`⏹ stop`** nếu muốn nghỉ hẳn và trả vị trí về phòng KTX AH2).
+
+---
+
+**© 2026 Heavietnam. All rights reserved.**
