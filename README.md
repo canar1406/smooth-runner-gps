@@ -119,5 +119,5 @@ adb install -r SmoothRunner-GPS.apk
 
 ## 📄 Bản quyền (Copyright)
 
-**© 2026 Heavietnam. All rights reserved.**
-Phát triển & tối ưu bởi **Heavietnam**.
+**© 2026 [Heavietnam](https://home.heavietnam.com/). All rights reserved.**
+Phát triển & tối ưu bởi **[Heavietnam](https://home.heavietnam.com/)**.

@@ -13,4 +13,4 @@ Xem đầy đủ tài liệu chi tiết tại **[`README.md`](./README.md)**.
 
 ---
 
-**© 2026 Heavietnam. All rights reserved.**
+**© 2026 [Heavietnam](https://home.heavietnam.com/). All rights reserved.**
